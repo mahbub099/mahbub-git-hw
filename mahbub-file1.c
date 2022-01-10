@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main(){
-    name();
+    full_name();
 }
-void name(){
- printf("Mahbub");
-}
+void full_name(){
+ int a = 10;
+ printf("Md Mahbub Rahman");
+ }
